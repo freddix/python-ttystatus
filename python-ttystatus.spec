@@ -1,11 +1,11 @@
 Summary:	Python library for showing progress reporting
 Name:		python-ttystatus
-Version:	0.22
+Version:	0.23
 Release:	1
 License:	GPL v3
 Group:		Libraries/Python
 Source0:	http://code.liw.fi/debian/pool/main/p/python-ttystatus/%{name}_%{version}.orig.tar.gz
-# Source0-md5:	e1f76f65f1896808e98fa0dde86e65fd
+# Source0-md5:	bfc43748b5a569a0d5e283b2e78814a8
 URL:		http://liw.fi/cliapp/
 BuildRequires:	python-devel
 BuildRequires:	rpm-pythonprov
